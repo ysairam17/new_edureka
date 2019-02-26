@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>
+Login page
+</title>
+</head>
+<style>
+
+.center {
+    position: absolute;
+    bottom: 400px;
+    width: 500px;
+    height: 100px;
+   margin-left:450px;
+	
+}
+
+
+</style>
+<body>
+
+<form name="login">
+
+<div aligin="center"  class="center">
+<h3 >
+Welcome! Please enter username and password
+</h3>
+<table>
+<tr>
+<td>
+Username </td>
+<td>
+<input type="text" name="userid" class="user"/>
+</td>
+</tr>
+<tr>
+<td>
+Password </td>
+<td>
+<input type="password" name="pswrd" class="user"/>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+<td>
+<input type="button" onclick="check(this.form)" value="Login" class="user"/>
+<input type="reset" value="Cancel"  class="user"/>
+</td>
+</tr>
+
+</table>
+</div>
+</form>
+<script language="javascript">
+function check(form)/*function to check userid & password*/
+{
+ /*the following code checkes whether the entered userid and password are matching*/
+ if(form.userid.value == "zettastar" && form.pswrd.value == "indusa@123")
+  {
+    window.open('http://www.zettastars.com/fileupload1.php')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   alert("Error Password or Username")/*displays error message*/
+  }
+}
+</script>
+</body>
+</html>

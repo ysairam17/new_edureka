@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /ajax/
+Allow: /css/
+Allow: /fonts/
+Allow: /images/
+Allow: /img/
+Allow: /js/
+Allow: /themes/
+Allow: /About.html
+Allow: /Careers.html
+Allow: /Contact.html
+Allow: /favicon1.PNG
+Allow: /favicon1.png
+Allow: /FileUplaod.aspx
+Allow: /index.html
+Allow: /Services.html

@@ -1,0 +1,319 @@
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Zettastar Software Solutions Pvt.Ltd | destination for your IT needs</title>
+    <!-- GLOBAL STYLE -->
+    <link id="stylesheetGlobal" type="text/css" href="css/global-style-blue.min.css" rel="stylesheet" media="screen">
+
+
+
+
+    <!-- FEVICON -->
+    <link href="favicon1.png" rel="icon" type="image/png">
+
+    <!-- FONT AWESOME  -->
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <!-- Cube Portfolio -->
+    <link rel="stylesheet" href="css/cubeportfolio.min.css">
+
+    <!-- CUSTOM STYLE -- Remove if not necessary -->
+    <link type="text/css" href="css/custom-style.css" rel="stylesheet">
+
+
+    <link rel='stylesheet' id='dt-main-css' href='css/main.min.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dt-custom.less-css' href='css/custom-b7cb5402d2.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dt-media-css' href='css/media.min.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <script type='text/javascript' src='js/jquery.js?ver=1.11.3'></script>
+
+    <script type='text/javascript' src='js/jquery-migrate.min.js?ver=1.2.1'></script>
+
+    <script type='text/javascript' src='js/modernizr.js?ver=4.3.0.1'></script>
+
+    <script type='text/javascript' src='js/svg-icons.min.js?ver=4.3.0.1'></script>
+    <style type="text/css">
+        div {
+            display: block;
+        }
+    </style>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+
+    <script type="text/javascript">
+        dtGlobals.logoEnabled = 1;
+        dtGlobals.logoURL = 'img/Logo - Main.png';
+        dtGlobals.logoW = '248';
+        dtGlobals.logoH = '66';
+
+        smartMenu = 1;
+    </script>
+
+    <!-- Header Scripts -->
+
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var dtLocal = { "passText": "To view this protected post, enter the password below:", "moreButtonAllLoadedText": "Everything is loaded", "moreButtonText": { "loading": "Loading..." }, "postID": "30", "ajaxurl": "http:\/\/zettastars.com\/wp-admin\/admin-ajax.php", "contactNonce": "5d4d84173d", "ajaxNonce": "7af8ea7f21", "pageData": { "type": "page", "template": "page", "layout": null }, "themeSettings": { "smoothScroll": "on", "lazyLoading": false } };
+        /* ]]> */
+    </script>
+
+
+
+    <script type='text/javascript' src='js/plugins.min.js?ver=4.3.0.1'></script>
+    <script type='text/javascript' src='js/main.min.js?ver=4.3.0.1'></script>
+
+
+    <!-- Header Scripts -->
+
+
+
+
+</head>
+
+<body class="home page page-id-30 page-template-default slideshow-on image-blur style-minimal btn-flat wpb-js-composer js-comp-ver-4.2.3 vc_responsive">
+
+
+    <div id="page">
+
+
+
+        <!-- !Top-bar -->
+
+        <div id="top-bar" role="complementary">
+            <div class="wf-wrap">
+                <div class="wf-table wf-mobile-collapsed">
+
+                    <div class="wf-td">
+
+                        <div class="mini-contacts wf-float-left">
+                            <ul>
+                                <li class="phone">+91 9493360224</li>
+                                <li class="email">hr@zettastars.com</li>
+                            </ul>
+                        </div>
+
+                        <!-- 	<div>
+                                <p style="text-align:center;top:100px;"><b>WE ARE STARS AT QUALITY</b></p>
+                            </div> -->
+                    </div>
+
+
+
+
+                    <div class="wf-td right-block">
+                        <div class="soc-ico show-round">
+                            <a title="Linkedin" target="_blank" href="#" class="linkedin">
+                                <span class="assistive-text">Linkedin</span>
+                            </a>
+
+                            <a title="Twitter" target="_blank" href="#" class="twitter">
+                                <span class="assistive-text">Twitter</span>
+                            </a>
+
+                            <a title="Facebook" target="_blank" href="#" class="facebook">
+                                <span class="assistive-text">Facebook</span>
+                            </a>
+
+                        </div>
+
+                    </div>
+                </div><!-- .wf-table -->
+            </div><!-- .wf-wrap -->
+        </div>
+
+        <!-- #top-bar -->
+        <!-- left, center, classical, classic-centered -->
+        <!-- !Header -->
+
+        <header id="header" class="logo-left" role="banner">
+            <div class="wf-wrap">
+                <div class="wf-table">
+
+                    <!-- !- Branding -->
+                    <div id="branding" class="wf-td">
+                        <a href="http://zettastars.com/"><img class="preload-me" src="img\Logo - Main.png" width="248" height="66" alt="ZettaStar Software Solutions Pvt.Ltd" /></a>
+                        <div id="site-title" class="assistive-text">ZettaStar Software Solutions Pvt.Ltd</div>
+                        <div id="site-description" class="assistive-text">destination for your IT needs</div>
+                    </div><!-- #branding -->
+                    <!--  Navigation BAR -->
+                    <nav id="navigation" class="wf-td">
+                        <ul id="main-nav" class="fancy-rollovers wf-mobile-hidden menu-frame-on">
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-8">
+                                <a href="index.html">
+                                    <i class="fa fa-home"></i>
+                                    <span>Home</span>
+                                </a>
+                            </li>
+
+
+
+                            <li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7 act first">
+                                <a href="About.html">
+                                    <i class="fa fa-user"></i> <!-- why us <i class="fa fa-question-circle"></i> -->
+                                    <span>About Us</span>
+                                </a>
+                            </li>
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-10">
+                                <a href="Welcome.html">
+                                    <i class="fa fa-upload"></i> <!-- why us <i class="fa fa-question-circle"></i> -->
+                                    <span>Welcome</span>
+
+                                </a>
+
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-26">
+                                <a href="Services.html">
+                                    <i class="fa fa-star"></i>
+                                    <span>Services</span>
+                                </a>
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-29">
+                                <a href="Careers.html">
+                                    <i class="fa fa-rocket"></i>
+                                    <span>Careers</span>
+                                </a>
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-28">
+                                <a href="Contact.html">
+                                    <i class="fa fa-envelope"></i>
+                                    <span>Contact</span>
+                                </a>
+                            </li>
+                        </ul>
+
+                        <a href="#show-menu" rel="nofollow" id="mobile-menu">
+                            <span class="menu-open">MENU</span>
+                            <span class="menu-close">CLOSE</span>
+                            <span class="menu-back">back</span>
+                            <span class="wf-phone-visible">&nbsp;</span>
+                        </a>
+
+
+
+                    </nav>
+
+
+                    <div class="wf-td mini-search wf-mobile-hidden">
+                        <form class="searchform" role="search" method="get" action="#">
+                            <input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter &hellip;" />
+                            <input type="submit" class="assistive-text searchsubmit" value="Go!" />
+                            <a href="#go" class="submit"></a>
+                        </form>
+                    </div>
+
+
+                </div><!-- #branding -->
+            </div><!-- .wf-wrap -->
+        </header><!-- #masthead -->
+        <!-- # Header ----->
+
+<body class="home page page-id-30 page-template-default slideshow-on image-blur style-minimal btn-flat wpb-js-composer js-comp-ver-4.2.3 vc_responsive">
+
+
+    <div id="page">
+<title>
+Login page
+</title>
+</head>
+<style>
+
+.center {
+    position: absolute;
+    bottom: 400px;
+    width: 500px;
+    height: 100px;
+   margin-left:450px;
+   font-family: "Times New Roman", Times, serif;
+    font-size: 300%
+	
+}
+
+
+</style>
+<body>
+
+<form name="login">
+<div aligin="center"  class="center">
+<img src="keys_98509.jpg" alt="key" height="250" width="250">
+<table>
+<tr>
+<td>
+<b>Username</b> </td>
+<td>
+<input type="text" name="userid" class="user"/>
+</td>
+</tr>
+<tr>
+<td>
+<b>Password</b> </td>
+<td>
+<input type="password" name="pswrd" class="user"/>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>
+</td>
+<td>
+<input type="button" onclick="check(this.form)" value="Login" class="user"/>
+<input type="reset" value="Cancel"  class="user"/>
+</td>
+</tr>
+
+</table>
+</div>
+</form>
+<script language="javascript">
+function check(form)/*function to check userid & password*/
+{
+ /*the following code checkes whether the entered userid and password are matching*/
+ if(form.userid.value == "zettastar" && form.pswrd.value == "indusa@123")
+  {
+    window.open('http://www.zettastars.com/Welcome1.html')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   alert("Error Password or Username")/*displays error message*/
+  }
+}
+</script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

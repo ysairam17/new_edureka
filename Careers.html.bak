@@ -1,0 +1,558 @@
+﻿
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Zettastar Software Solutions Pvt.Ltd | destination for your IT needs</title>
+    <!-- GLOBAL STYLE -->
+    <link id="stylesheetGlobal" type="text/css" href="css/global-style-blue.min.css" rel="stylesheet" media="screen">
+
+
+
+
+    <!-- FEVICON -->
+    <link href="favicon1.png" rel="icon" type="image/png">
+
+    <!-- FONT AWESOME  -->
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <!-- Cube Portfolio -->
+    <link rel="stylesheet" href="css/cubeportfolio.min.css">
+
+    <!-- CUSTOM STYLE -- Remove if not necessary -->
+    <link type="text/css" href="css/custom-style.css" rel="stylesheet">
+
+
+    <link rel='stylesheet' id='dt-main-css' href='css/main.min.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dt-custom.less-css' href='css/custom-b7cb5402d2.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='dt-media-css' href='css/media.min.css?ver=4.3.0.1' type='text/css' media='all' />
+
+    <script type='text/javascript' src='js/jquery.js?ver=1.11.3'></script>
+
+    <script type='text/javascript' src='js/jquery-migrate.min.js?ver=1.2.1'></script>
+
+    <script type='text/javascript' src='js/modernizr.js?ver=4.3.0.1'></script>
+
+    <script type='text/javascript' src='js/svg-icons.min.js?ver=4.3.0.1'></script>
+    <style type="text/css">
+        div {
+            display: block;
+        }
+		.FileUpload
+		{
+			margin-left:280px;
+			
+		}
+    </style>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+
+    <script type="text/javascript">
+        dtGlobals.logoEnabled = 1;
+        dtGlobals.logoURL = 'img/Logo - Main.png';
+        dtGlobals.logoW = '248';
+        dtGlobals.logoH = '66';
+
+        smartMenu = 1;
+    </script>
+
+    <!-- Header Scripts -->
+
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var dtLocal = { "passText": "To view this protected post, enter the password below:", "moreButtonAllLoadedText": "Everything is loaded", "moreButtonText": { "loading": "Loading..." }, "postID": "30", "ajaxurl": "http:\/\/zettastars.com\/wp-admin\/admin-ajax.php", "contactNonce": "5d4d84173d", "ajaxNonce": "7af8ea7f21", "pageData": { "type": "page", "template": "page", "layout": null }, "themeSettings": { "smoothScroll": "on", "lazyLoading": false } };
+        /* ]]> */
+    </script>
+
+
+
+    <script type='text/javascript' src='js/plugins.min.js?ver=4.3.0.1'></script>
+    <script type='text/javascript' src='js/main.min.js?ver=4.3.0.1'></script>
+
+
+    <!-- Header Scripts -->
+
+
+
+
+</head>
+
+<body class="home page page-id-30 page-template-default slideshow-on image-blur style-minimal btn-flat wpb-js-composer js-comp-ver-4.2.3 vc_responsive">
+
+
+    <div id="page">
+
+
+
+        <!-- !Top-bar -->
+
+        <div id="top-bar" role="complementary">
+            <div class="wf-wrap">
+                <div class="wf-table wf-mobile-collapsed">
+
+                    <div class="wf-td">
+
+                        <div class="mini-contacts wf-float-left">
+                            <ul>
+                                <li class="phone">+91 9493360224</li>
+                                <li class="email">hr@zettastars.com</li>
+                            </ul>
+                        </div>
+
+                        <!-- 	<div>
+                                <p style="text-align:center;top:100px;"><b>WE ARE STARS AT QUALITY</b></p>
+                            </div> -->
+                    </div>
+
+
+
+
+                    <div class="wf-td right-block">
+                        <div class="soc-ico show-round">
+                            <a title="Linkedin" target="_blank" href="#" class="linkedin">
+                                <span class="assistive-text">Linkedin</span>
+                            </a>
+
+                            <a title="Twitter" target="_blank" href="#" class="twitter">
+                                <span class="assistive-text">Twitter</span>
+                            </a>
+
+                            <a title="Facebook" target="_blank" href="#" class="facebook">
+                                <span class="assistive-text">Facebook</span>
+                            </a>
+
+                        </div>
+
+                    </div>
+                </div><!-- .wf-table -->
+            </div><!-- .wf-wrap -->
+        </div>
+
+        <!-- #top-bar -->
+        <!-- left, center, classical, classic-centered -->
+        <!-- !Header -->
+
+        <header id="header" class="logo-left" role="banner">
+            <div class="wf-wrap">
+                <div class="wf-table">
+
+                    <!-- !- Branding -->
+                    <div id="branding" class="wf-td">
+                        <a href="http://zettastars.com/"><img class="preload-me" src="img\Logo - Main.png" width="248" height="66" alt="ZettaStar Software Solutions Pvt.Ltd" /></a>
+                        <div id="site-title" class="assistive-text">ZettaStar Software Solutions Pvt.Ltd</div>
+                        <div id="site-description" class="assistive-text">destination for your IT needs</div>
+                    </div><!-- #branding -->
+                    <!--  Navigation BAR -->
+                    <nav id="navigation" class="wf-td">
+                        <ul id="main-nav" class="fancy-rollovers wf-mobile-hidden menu-frame-on">
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-29">
+                                <a href="index.html">
+                                    <i class="fa fa-home"></i>
+                                    <span>Home</span>
+                                </a>
+                            </li>
+
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-8">
+                                <a href="About.html">
+                                    <i class="fa fa-user"></i> <!-- why us <i class="fa fa-question-circle"></i> -->
+                                    <span>About Us</span>
+                                </a>
+                            </li>
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-10">
+                                <a href="Welcome.html">
+                                    <i class="fa fa-upload"></i> <!-- why us <i class="fa fa-question-circle"></i> -->
+                                    <span>Welcome</span>
+
+                                </a>
+
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-26">
+                                <a href="Services.html">
+                                    <i class="fa fa-star"></i>
+                                    <span>Services</span>
+                                </a>
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7 act first">
+                                <a href="Careers.html">
+                                    <i class="fa fa-rocket"></i>
+                                    <span>Careers</span>
+                                </a>
+                            </li>
+
+
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-28">
+                                <a href="Contact.html">
+                                    <i class="fa fa-envelope"></i>
+                                    <span>Contact</span>
+                                </a>
+                            </li>
+                        </ul>
+
+                        <a href="#show-menu" rel="nofollow" id="mobile-menu">
+                            <span class="menu-open">MENU</span>
+                            <span class="menu-close">CLOSE</span>
+                            <span class="menu-back">back</span>
+                            <span class="wf-phone-visible">&nbsp;</span>
+                        </a>
+
+
+
+                    </nav>
+
+
+                    <div class="wf-td mini-search wf-mobile-hidden">
+                        <form class="searchform" role="search" method="get" action="#">
+                            <input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter &hellip;" />
+                            <input type="submit" class="assistive-text searchsubmit" value="Go!" />
+                            <a href="#go" class="submit"></a>
+                        </form>
+                    </div>
+
+
+                </div><!-- #branding -->
+            </div><!-- .wf-wrap -->
+        </header><!-- #masthead -->
+        <!-- # Header ----->
+        <!--  Services Page Start --->
+
+        <img style="width:100%;height:250px;" src="img/careerhead.jpg" />
+
+        <div class="container-fluid" style="background-color:#00b0ff;height:40px;line-height:40px;color:white;font-weight:bold;">
+
+            HOME / CAREERS
+			
+        </div>
+		<br/>	
+			<br/>
+		 <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-10">
+                                <a href="Welcome2.html">
+                                    <i class="fa fa-upload"></i> <!-- why us <i class="fa fa-question-circle"></i> -->
+                                    <span>File Upload</span>
+
+                                </a>
+
+                            </li>
+
+
+        <section class="sct-color-1 slice bb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="section-title-wrapper style-1 v1">
+                            <h3 class="section-title left">
+                                <span>Career</span>
+                            </h3>
+                        </div>
+                        <p>Are you ready for a career and not just a job? Looking for a company that values its employees as its most important asset? If these are traits you expect from your employer, then we at ZETTASTAR can meet or exceed your expectations.</p>
+
+                        <div class="collapse-wrapper panel-group panel-spaced" id="accordionFour">
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordionFour" href="#collapse4a" class="collapsed" aria-expanded="false">
+                                            Sr. Software Engineer (.NET)
+                                        </a>
+                                    </h4>
+                                </div>
+                                <div id="collapse4a" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+                                    <div class="panel-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <p>
+                                                    <div class="accordion-inner">
+                                                <p></p>
+                                                <p>We have an urgent requirement for Asp Dot Net&nbsp;MVC Developer. Candidate should have strong exposure on .Net Technologies and have to play an active role in up-gradation of technology.</p>
+                                                <p>Here is the request that, please do forward your resumes to the below mentioned Email Id</p>
+                                                <h5>The Eligible Criteria is as follows</h5>
+                                                <ul>
+                                                    <li class="firstItem"><i style="" class="icon-shield "></i>Graduate/ Post Graduate [Regular mode only] in any discipline with a minimum aggregate of 70% and above throughout Academic (Mandatory).</li>
+                                                    <li><i style="" class="icon-shield "></i>Should have good knowledge in .NET technologies.</li>
+                                                    <li><i style="" class="icon-shield "></i>Strong in Analytical, Problem Solving, Reasoning &amp; Quantitative Skills.</li>
+                                                    <li><i style="" class="icon-shield "></i>Good to Fantastic communication skills.</li>
+                                                    <li><i style="" class="icon-shield "></i>Should be willing to work in shifts.</li>
+                                                    <li><i style="" class="icon-shield "></i>Male candidates preferred.</li>
+                                                    <li class="lastItem"><i style="" class="icon-shield "></i>Should be ready to join within 15 days.</li>
+                                                </ul>
+                                                <h5>Desired Profile</h5>
+                                                <ul>
+                                                    <li class="firstItem"><i style="" class="icon-shield "></i>Design, develop, and deploy new database-driven web sites / applications&nbsp;</li>
+                                                    <li><i style="" class="icon-shield "></i>Maintenance of existing web sites / applications&nbsp;</li>
+                                                    <li><i style="" class="icon-shield "></i>Immediate Joiners will be preferred&nbsp;</li>
+                                                    <li><i style="" class="icon-shield "></i>Candidate should be quick to adapt to the work environment and be ready for work assignments.</li>
+                                                    <li><i style="" class="icon-shield "></i>Designing, developing, testing and deploying enterprise .Net&nbsp;solutions using .NET&nbsp;Framework,&nbsp;ASP.NET&nbsp;and other advanced components of Microsoft (and other) technologies.</li>
+                                                    <li><i style="" class="icon-shield "></i>Writing functional &amp; technical specifications for .Net&nbsp;development engagements</li>
+                                                    <li><i style="" class="icon-shield "></i>Working as part of a development team.</li>
+                                                    <li><i style="" class="icon-shield "></i>Experience with JavaScript/Jquery</li>
+                                                    <li><i style="" class="icon-shield "></i>Experience with HTML5, CSS3 and bootstrap would be an advantage.</li>
+                                                    <li class="lastItem"><i style="" class="icon-shield "></i>ASP.NET&nbsp;MVC&nbsp;2/3 and above</li>
+                                                </ul>
+                                                <p>Please call us at +91 9493360224 or email us at careers@zettastars.com
+                                            </div>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordionFour" href="#collapse4b" aria-expanded="false" class="collapsed">
+                                        Associate Software Engineer
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse4b" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+                                <div class="panel-body">
+                                    <div class="accordion-inner">
+                                        <p></p>
+                                        <p>We have an urgent requirement for Software Trainees. Candidates should have strong exposure on .NET Technologies and have to play an active role in up-gradation of technology.</p>
+                                        <p>Here is the request that, please do attend this Walk In if you have eligible criteria which is mentioned below.</p>
+                                        <h5>The Eligible Criteria is as follows</h5>
+                                        <ul>
+                                            <li class="firstItem"><i style="" class="icon-shield "></i>B.E/ B.Tech graduate in Computer Science / Information Technology /ECE. Should have scored above 70 % throughout Academic (Mandatory).</li>
+                                            <li><i style="" class="icon-shield "></i>Preferred MALE candidates only.</li>
+                                            <li><i style="" class="icon-shield "></i>Candidates who have undergone training in .NET courses will be an added advantage.</li>
+                                            <li><i style="" class="icon-shield "></i>Should have good knowledge in .NET technologies.</li>
+                                            <li><i style="" class="icon-shield "></i>Strong in Analytical, Problem Solving, Reasoning &amp; Quantitative Skills.</li>
+                                            <li><i style="" class="icon-shield "></i>Good command over communication skills.</li>
+                                            <li><i style="" class="icon-shield "></i>Should be willing to work in rotational shifts.</li>
+                                            <li class="lastItem"><i style="" class="icon-shield "></i>If selected, should be ready to join immediately.</li>
+                                        </ul>
+                                        <h5>NOTE</h5>
+                                        <ul>
+                                            <li class="firstItem"><i style="" class="icon-shield "></i>Must carry your Original educational certificates and updated Resume for verification process.</li>
+                                            <li><i style="" class="icon-shield "></i>Do refer your friends who are eligible for above criteria.</li>
+                                            <li><i style="" class="icon-shield "></i>We request Candidates not to apply for this position if you do not meet the Eligibility Criteria as stated above.</li>
+                                            <li class="lastItem"><i style="" class="icon-shield "></i>We follow a stringent Background Verification Check and require a no objection from all applicants.</li>
+                                        </ul>
+                                        <h5>Interview Process</h5>
+                                        <ul>
+                                            <li class="firstItem"><i style="" class="icon-shield "></i>Written Test (Aptitude &amp; .NET)</li>
+                                            <li><i style="" class="icon-shield "></i>System Test</li>
+                                            <li><i style="" class="icon-shield "></i>Technical Discussion</li>
+                                            <li class="lastItem"><i style="" class="icon-shield "></i>HR Interview&nbsp;</li>
+                                        </ul>
+                                        <p>Please call us at +91 9493360224 or email us at careers@zettastars.com
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordionFour" href="#collapse4c" class="collapsed" aria-expanded="false">
+                                        Mobile Application Developer
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse4c" class="panel-collapse collapse" aria-expanded="false">
+                                <div class="panel-body">
+                                    <div class="accordion-inner">
+                                        <p></p>
+                                        <h5>Job Description</h5>
+                                        <p>We're seeking a creative iPhone and Android mobile application developer who thinks outside the box and can push the limits at times! We're looking for someone who's as passionate as we are about mobile apps for the iOS and Android platforms and has a fantastic portfolio to prove it.</p>
+                                        <p>You will be involved in every step of the development process, from brainstorming product ideas, to pushing apps out the door. You will also contribute to our existing portfolio of mobile apps and will help maintain these apps to ensure they continue to function flawlessly across new iOS and Android releases.</p>
+                                        <h5>Requirement</h5>
+                                        <ul>
+                                            <li class="firstItem"><i style="" class="icon-shield "></i>2+ years of overall iOS &amp; Android development</li>
+                                            <li><i style="" class="icon-shield "></i>Strong Objective-C skills and inside-and-out knowledge of the iOS SDK.</li>
+                                            <li><i style="" class="icon-shield "></i>Strong Java skills with extensive knowledge of the Android SDK.</li>
+                                            <li><i style="" class="icon-shield "></i>Experience using and creating scalable web-based RESTful APIs.</li>
+                                            <li><i style="" class="icon-shield "></i>Object Oriented PHP skills at all scales.</li>
+                                            <li><i style="" class="icon-shield "></i>Exceptional organizational and project management skills.</li>
+                                            <li class="lastItem"><i style="" class="icon-shield "></i>Demonstrated success in defining and launching mobile apps.</li>
+                                        </ul>
+                                        <h5>Bonus Points</h5>
+                                        <ul>
+                                            <li class="firstItem"><i style="" class="icon-shield "></i>You exhibit impressive UI/UX skills.</li>
+                                            <li><i style="" class="icon-shield "></i>You also have Python/Django skills.</li>
+                                            <li><i style="" class="icon-shield "></i>You like poking around at private iOS APIs.</li>
+                                            <li><i style="" class="icon-shield "></i>You've created jailbreak apps before.</li>
+                                            <li class="lastItem"><i style="" class="icon-shield "></i>You're familiar with "hybrid" apps (web views wrapped around a native app).</li>
+                                        </ul>
+                                        <h5>Desired Candidate Profile</h5>
+                                        <p>Education:</p>
+                                        <p>UG - BCA - Computers, Diploma - Any Specialization, Computers,</p>
+                                        <p>B.Tech/B.E. - Any Specialization, Computers</p>
+                                        <p>PG - MCA - Computers</p>
+                                        <p></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="col-md-6">
+                    <!-- 16:9 aspect ratio -->
+                    <div style="margin-left:15%; margin-top:10%;">
+
+
+                        <img src="img/career.png" class="img-responsive">
+
+                    </div>
+                </div>
+            </div>
+    </div>
+    </section>
+
+
+
+    <!--  Services Page End --->
+    <!-- FOOTER -->
+    <footer class="footer style-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="col">
+                        <img src="img\Logo - Main.png" style="height:80px;width:230px;">
+
+                        <p class="no-margin">
+                            <br />
+                            We are a pioneering Information Technology Services company. Our unique Full Service Provider (FSP) solutions model brings you the best of the worlds of Offshore Software Development, E-Business Services and Online Marketing Services.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="col">
+                        <h4>Services</h4>
+                        <ul>
+                            <li><a href="#" title="About">About</a></li>
+                            <li><a href="#" title="">Vision & Mission</a></li>
+                            <li><a href="#" title="">Our Team</a></li>
+                            <li><a href="#" title="">Our Partners</a></li>
+                            <li><a href="#" title="">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="col">
+                        <h4>Development Center</h4>
+                        <ul>
+                            <li>
+                                <a href="#" title="Help center">
+                                    Address:
+                                    ZettaStar Software Solutions Pvt. Ltd.,Sai Manikanta Nilayam, Near Law College, Yellareddyguda, Ameerpet, Hyderabad , Telangana,500073.
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" title="Discussions">
+                                    Tel:
+                                    +91 9493360224
+                                </a>
+                            </li>
+                            <li><a href="index.html" title="Contact support">Website:www.zettastars.com</a></li>
+                            <li><a href="mailto:info@zettastars.com" title="Blog">Email:info@zettastars.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <div class="col">
+                        <h4>Global HeadQuarters</h4>
+                        <ul>
+                            <li>
+                                <a href="#" title="About">
+                                    Address:
+                                    TechStar Solutions Inc,12020 Greywing Sq,Unit # T3 Reston,1650 20191.
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" title="License informations">
+                                    Tel:
+                                    +1 703 303 6703
+                                </a>
+                            </li>
+                            <li>
+                                <a href="index.html" title="Terms">
+                                    Website:
+                                    www.techstarsusa.com
+                                </a>
+                            </li>
+                            <li>
+                                <a href="mailto:info@techstarsusa.com" title="Jobs">
+                                    Email:
+                                    info@techstarsusa.com
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="col">
+                        <h4>Stay updated</h4>
+                        <p>Sign up if you would like to receive the newest updates and other free goods.</p>
+                        <form class="form-horizontal form-dark">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Your email address">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-base-1" type="button" style="top:-5px;">Go</button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="copyright style-1">
+        <div class="container">
+            <div class="div-table v-middle">
+                <div class="cell">
+                    All rights reserved. Copyright &copy; 2015 <span class="company-rights">ZettaStar</span>
+                </div>
+                <div class="cell">
+                    <div class="social-media style-2 v4 text-right">
+                        <a href="#" target="_blank" class="facebook">
+                            <i class="fa fa-facebook "></i>
+                        </a>
+                        <a href="#" target="_blank" class="google-plus">
+                            <i class="fa fa-google-plus "></i>
+                        </a>
+                        <a href="#" target="_blank" class="pinterest">
+                            <i class="fa fa-linkedin"></i>
+                        </a>
+                        <a href="#" target="_blank" class="twitter">
+                            <i class="fa fa-twitter "></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>
